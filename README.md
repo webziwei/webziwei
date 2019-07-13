@@ -17,7 +17,7 @@ npm run build
 ## 项目演示地址
 http://webwzw.com:3000
 
-[点我](http://129.28.187.106/1562995772.png)
+![](http://i1.piimg.com/588926/d1cb3dda0bdf8cd1.png)
 
 
 
