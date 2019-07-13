@@ -1,29 +1,16 @@
-# code1
+# 该项目vue-cli 3.8.0版本脚手架搭建
 
-## Project setup
+## 下载安装组件依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 输入命令开启服务器，运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
