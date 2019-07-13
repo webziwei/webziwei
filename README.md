@@ -1,6 +1,6 @@
-# 该项目vue-cli 3.8.0版本脚手架搭建
+# 该项目基于vue-cli 3.8.0版本脚手架搭建
 
-## 下载安装组件依赖
+## 下载安装项目依赖
 ```
 npm install
 ```
@@ -15,6 +15,9 @@ npm run serve
 npm run build
 
 ## 项目演示地址
-![](http://129.28.187.106/1562995772.png)
+http://webwzw.com:3000
+
+
+
 
 
